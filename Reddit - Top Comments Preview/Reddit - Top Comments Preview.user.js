@@ -4,7 +4,7 @@
 // @author         jesuis-parapluie > humzakh
 // @version        3.03
 // @description    Preview to the top comments on Reddit (+ optional auto-load comments and images, auto-hide sidebar)
-// @homepageURL    x
+// @homepageURL    https://github.com/humzakh/userscripts/tree/master/Reddit%20-%20Top%20Comments%20Preview
 // @require        https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
 // @include        /^https?:\/\/(.+\.)?reddit\.com\/?.*$/
 // @exclude        /^https?:\/\/(.+\.)?reddit\.com\/r\/.*\/comments\/.*$/
